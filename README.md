@@ -63,7 +63,7 @@ An educational platform for my 2cp project with course publishing, offline mode,
 -->
 ## GitHub Streak Stats
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Abdousa23&theme=radical)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sahki-abderrahemane&theme=radical)
 
 ## Connect with me:
  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Abdousa23)
