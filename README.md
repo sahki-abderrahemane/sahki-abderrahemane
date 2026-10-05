@@ -1,99 +1,117 @@
 # Hi there, I'm Abderrahemane 👋
 
-I'm a passionate Fullstack Developer interested in building dynamic, high-performance web applications. I am  an AI and data science enthusiast aiming to improve and develop myself
-<!--
-## 🔧 Technologies & Tools
+I'm an **AI Engineer & Fullstack Developer** passionate about building intelligent, scalable software systems. My background combines **AI & Data Science** with strong fullstack development experience, allowing me to work across machine learning, LLM applications, backend systems, and modern web applications.
 
-### Frontend
-- **Languages:** JavaScript (ES6+),TypeScript, HTML5, CSS3
-- **Frameworks/Libraries:** React.js, Next.js
-- **Styling:** Tailwind CSS, Material-UI
+🎓 Currently pursuing my final year in **AI & Data Science Engineering**, working toward my **Master's + Engineering degree**.
 
-### Backend
-- **Languages:** JavaScript (Node.js)
-- **Frameworks:** Express.js, NestJS 
-- **Real-time:** Socket.io
-- **Databases:** MongoDB, Mongoose,Postgres
+🤖 Interested in **Artificial Intelligence, LLMs, AI Agents, RAG systems, Machine Learning, and intelligent software**.
 
-### Tools & Platforms
-- **Version Control:** Git, GitHub
-<!-- 
-## 🚀 Projects
+💻 Experienced in building production-oriented fullstack applications using **Next.js, NestJS, TypeScript, Python, Docker, SQL/NoSQL databases, and Redis**.
 
-### [Project 1: E-commerce Platform](https://github.com/your-github-username/project-1)
-A scalable e-commerce platform built with MERN stack and Next.js, featuring real-time notifications with Socket.io.
+🚀 Currently focusing on **LLM applications, RAG, multimodal AI, AI agents, and production AI systems**.
 
-![E-commerce Platform](https://github.com/your-github-username/project-1/blob/main/screenshot.png)
+📚 All of my projects are available at [My Portfolio](https://abdou-sahki-portfolio.vercel.app/)
 
-**Technologies:** MongoDB, Express.js, React.js, Node.js, Socket.io, Tailwind CSS
-
-### [Project 2: Social Media App](https://github.com/your-github-username/project-2)
-A social media application with real-time chat, notifications, and user authentication using JWT.
-
-![Social Media App](https://github.com/your-github-username/project-2/blob/main/screenshot.png)
-
-**Technologies:** MongoDB, Express.js, React.js, Node.js, Socket.io, Material-UI
-
-### [Project 3: Edu+ platform project](https://github.com/Abdousa23/Edu-plus)
-An educational platform for my 2cp project with course publishing, offline mode, download courses option, payment method, built with Next.js and Express.js.
-
-![Edu+](https://github.com/Abdousa23/Edu-plus/blob/main/screenshot.png)
-
-**Technologies:** MongoDB, Express.js, React.js, Node.js, Cloudinary, PWA
-
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdousa23&show_icons=true&hide_border=true&theme=radical)
+💬 Ask me about **AI, Machine Learning, LLM applications, RAG, AI Agents, or Fullstack Development**.
 
 ---
--->
 
-🚀 I’m currently learning Flutter
+## 🚀 Featured Projects
 
-💻 I’m currently working on a fullstack web application using NestJS and GraphQL
+### 🧠 VisualMind
+A multimodal e-commerce search system that allows users to search for products using **images or natural language**.
 
-📚 All of my projects are available at [My Portfolio](https://saabderrahemaneportfolio.vercel.app/)
+Built around **CLIP embeddings, FAISS/vector search, FastAPI, Kafka, and a modern web frontend**.
 
-💬 Ask me about web development
-<!--
-## GitHub Stats
+**Technologies:** Python, PyTorch, CLIP, FAISS, FastAPI, Kafka, Docker, Next.js
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdousa23&show_icons=true&theme=radical)
--->
-## GitHub Streak Stats
+### 🤖 MentorAI
+An AI-powered learning assistant focused on helping developers and students learn **Machine Learning, Deep Learning, NLP, Computer Vision, MLOps, Python, and PyTorch**.
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sahki-abderrahemane&theme=radical)
+The project focuses on **document processing, RAG, knowledge retrieval, and LLM-based question answering**.
 
-## Connect with me:
- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Abdousa23)
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahemane-sahki-a71a6224b/)
- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:a_sahki@estin.dz)
+**Technologies:** Python, LLMs, RAG, FAISS, PyTorch, FastAPI
 
- 
-I'm always excited to work on new projects and contribute to open-source. Feel free to reach out for collaboration or just to say hi! 😄
+### 🛒 DA-Mall
+A multi-vendor **B2B/B2C marketplace** built for the Algerian market, with a modular backend and production-oriented architecture.
+
+Includes authentication, product management, stores, orders, analytics, notifications, delivery integration, affiliate/referral systems, moderation, and more.
+
+**Technologies:** Next.js, NestJS, TypeScript, MySQL, Redis, Docker, Firebase
+
+### ✈️ N7awsou
+A smart travel agency platform designed to simplify travel planning and improve the experience of discovering and organizing trips.
+
+**Technologies:** Next.js, Node.js, TypeScript, SQL/NoSQL, APIs
+
+### 📚 Edu+
+An educational platform developed during my preparatory studies, featuring course publishing, offline access, course downloads, and payment functionality.
+
+**Technologies:** Next.js, Express.js, MongoDB, Cloudinary, PWA
+
+---
 
 ## 🛠️ Technologies & Tools
 
+### 🤖 AI & Machine Learning
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-black?style=flat-square&logo=huggingface)
+![FAISS](https://img.shields.io/badge/-FAISS-black?style=flat-square)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
+
+**Machine Learning • Deep Learning • NLP • Computer Vision • LLMs • RAG • Embeddings • Vector Search • AI Agents**
+
+### 💻 Frontend
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Electron](https://img.shields.io/badge/-Electron-black?style=flat-square&logo=electron)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
-![Material-UI](https://img.shields.io/badge/-Material--UI-black?style=flat-square&logo=material-ui)
-![PWA](https://img.shields.io/badge/-PWA-black?style=flat-square&logo=pwa)
+
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
+![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io)
+
+### 🗄️ Databases & Infrastructure
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kafka](https://img.shields.io/badge/-Apache%20Kafka-black?style=flat-square&logo=apachekafka)
+
+### 🔧 Tools
+
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![NestJS](https://img.shields.io/badge/-nestjs-red?style=flat-square&logo=nestjs)
-![Fastapi](https://img.shields.io/badge/-fastapi-black?style=flat-square&logo=fastapi)
-![Postgres](https://img.shields.io/badge/-postgres-black?style=flat-square&logo=postgresql)
-![GraphQL](https://img.shields.io/badge/-graphql-black?style=flat-square&logo=graphql)
-![Flutter](https://img.shields.io/badge/-flutter-black?style=flat-square&logo=flutter)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdousa23&show_icons=true&hide_border=true&theme=radical)
+
+## 🔥 GitHub Streak Stats
+
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sahki-abderrahemane&theme=radical)
+
+---
+
+## 🤝 Connect with me
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Abdousa23)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahemane-sahki-a71a6224b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:a_sahki@estin.dz)
+
+I'm always excited to work on challenging projects involving **AI, intelligent software, and scalable systems**. Feel free to reach out for collaboration, interesting opportunities, or just to say hi! 😄
